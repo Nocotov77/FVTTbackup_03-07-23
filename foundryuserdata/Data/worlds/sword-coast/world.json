@@ -1,0 +1,15 @@
+{
+  "title": "Побережье Мечей",
+  "id": "sword-coast",
+  "system": "dnd5e",
+  "coreVersion": "11.300",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.300"
+  },
+  "systemVersion": "2.2.1",
+  "background": "timur/artwork/cover-fhd.webp",
+  "nextSession": "2023-03-19T10:00:00.000Z",
+  "lastPlayed": "Sat Jun 03 2023 08:44:51 GMT+0300 (Moscow Standard Time)",
+  "safeMode": false
+}

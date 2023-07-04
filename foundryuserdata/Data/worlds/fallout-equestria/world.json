@@ -1,0 +1,14 @@
+{
+  "title": "Fallout: Equestria",
+  "id": "fallout-equestria",
+  "system": "dnd5e",
+  "background": "MLP/27a703edb15420efe539f009f272f6a4.jpg",
+  "description": "<hr /><h1>Это была ошибка? Или глупый выбор?</h1><img src=\"MLP/27a703edb15420efe539f009f272f6a4.jpg\" />",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  },
+  "systemVersion": "2.1.4",
+  "safeMode": false
+}

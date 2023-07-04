@@ -1,0 +1,8 @@
+2023/07/01-10:53:22.686214 7f42ae7fc640 Recovering log #126
+2023/07/01-10:53:22.688262 7f42ae7fc640 Delete type=0 #126
+2023/07/01-10:53:22.688297 7f42ae7fc640 Delete type=3 #124
+2023/07/02-10:13:14.029012 7f400c972640 Level-0 table #131: started
+2023/07/02-10:13:14.029068 7f400c972640 Level-0 table #131: 0 bytes OK
+2023/07/02-10:13:14.030005 7f400c972640 Delete type=0 #129
+2023/07/02-10:13:14.044442 7f400c972640 Manual compaction at level-0 from '!cards!CjQTxlVUkhnqcnQf' @ 72057594037927935 : 1 .. '!cards.cards!CjQTxlVUkhnqcnQf.zwIDgrQFG3b2BVx1' @ 0 : 0; will stop at (end)
+2023/07/02-10:13:14.044501 7f400c972640 Manual compaction at level-1 from '!cards!CjQTxlVUkhnqcnQf' @ 72057594037927935 : 1 .. '!cards.cards!CjQTxlVUkhnqcnQf.zwIDgrQFG3b2BVx1' @ 0 : 0; will stop at (end)

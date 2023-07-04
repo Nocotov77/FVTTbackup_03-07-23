@@ -1,0 +1,11 @@
+{
+  "title": "Equestria",
+  "id": "equestria",
+  "system": "fallout",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "systemVersion": "10.0.9"
+}

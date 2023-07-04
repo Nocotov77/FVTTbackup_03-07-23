@@ -1,0 +1,67 @@
+{
+  "title": "Падение Алькантары",
+  "id": "alkantara",
+  "system": "dnd5e",
+  "coreVersion": "11.300",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.300"
+  },
+  "systemVersion": "2.2.1",
+  "background": "worlds/alkantara/media/cover/cover.png",
+  "nextSession": "2023-02-14T15:00:00.000Z",
+  "packs": [
+    {
+      "label": "Ваншот Николая",
+      "type": "Actor",
+      "name": "vanshot-nikolaya",
+      "path": "packs/vanshot-nikolaya",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Escape from (ХУЕТА)",
+      "type": "Item",
+      "name": "escape-from-hueta",
+      "path": "packs/escape-from-hueta",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Пески",
+      "type": "Actor",
+      "name": "peski",
+      "path": "packs/peski",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Странник",
+      "type": "Item",
+      "name": "strannik",
+      "path": "packs/strannik",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "safeMode": false,
+  "resetKeys": false,
+  "lastPlayed": "Tue Jun 27 2023 23:15:29 GMT+0300 (Moscow Standard Time)",
+  "playtime": 188827
+}

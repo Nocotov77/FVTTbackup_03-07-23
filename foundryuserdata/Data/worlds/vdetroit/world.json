@@ -1,0 +1,17 @@
+{
+  "title": "Новое начало",
+  "id": "vdetroit",
+  "system": "vtm5e",
+  "coreVersion": "11.300",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.300"
+  },
+  "systemVersion": "2.0.2",
+  "background": "worlds/vdetroit/media/cover.jpg",
+  "lastPlayed": "Thu Jun 15 2023 08:48:04 GMT+0300 (Moscow Standard Time)",
+  "playtime": 394514,
+  "safeMode": false,
+  "joinTheme": "default",
+  "nextSession": "2023-05-31T14:00:00.000Z"
+}

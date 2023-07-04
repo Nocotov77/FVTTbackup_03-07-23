@@ -1,0 +1,16 @@
+{
+  "title": "Пески",
+  "id": "peski",
+  "system": "dnd5e",
+  "coreVersion": "11.300",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.300"
+  },
+  "systemVersion": "2.2.1",
+  "background": "worlds/peski/media/cover/cover.jpg",
+  "resetKeys": false,
+  "lastPlayed": "Sun Jun 04 2023 19:31:12 GMT+0300 (Moscow Standard Time)",
+  "safeMode": false,
+  "playtime": 78
+}

@@ -1,0 +1,8 @@
+2023/07/02-10:13:55.931219 7f42ae7fc640 Recovering log #166
+2023/07/02-10:13:55.933086 7f42ae7fc640 Delete type=3 #164
+2023/07/02-10:13:55.933125 7f42ae7fc640 Delete type=0 #166
+2023/07/03-18:11:09.642232 7f400c972640 Level-0 table #173: started
+2023/07/03-18:11:09.642265 7f400c972640 Level-0 table #173: 0 bytes OK
+2023/07/03-18:11:09.642885 7f400c972640 Delete type=0 #171
+2023/07/03-18:11:09.642988 7f400c972640 Manual compaction at level-0 from '!messages!03GoGUsfeYPyLJmA' @ 72057594037927935 : 1 .. '!messages!zy5A277X12MltSpw' @ 0 : 0; will stop at (end)
+2023/07/03-18:11:09.673024 7f400c972640 Manual compaction at level-1 from '!messages!03GoGUsfeYPyLJmA' @ 72057594037927935 : 1 .. '!messages!zy5A277X12MltSpw' @ 0 : 0; will stop at (end)
